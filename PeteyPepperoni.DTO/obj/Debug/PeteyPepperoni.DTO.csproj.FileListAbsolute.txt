@@ -1,0 +1,6 @@
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.DTO\bin\Debug\PeteyPepperoni.DTO.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.DTO\bin\Debug\PeteyPepperoni.DTO.pdb
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.DTO\obj\Debug\PeteyPepperoni.DTO.csprojAssemblyReference.cache
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.DTO\obj\Debug\PeteyPepperoni.DTO.csproj.CoreCompileInputs.cache
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.DTO\obj\Debug\PeteyPepperoni.DTO.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.DTO\obj\Debug\PeteyPepperoni.DTO.pdb

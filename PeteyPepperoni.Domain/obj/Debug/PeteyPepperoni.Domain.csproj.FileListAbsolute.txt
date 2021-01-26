@@ -1,0 +1,14 @@
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\bin\Debug\PeteyPepperoni.Domain.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\bin\Debug\PeteyPepperoni.Domain.pdb
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\bin\Debug\PeteyPepperoni.DTO.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\bin\Debug\PeteyPepperoni.Persistence.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\bin\Debug\EntityFramework.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\bin\Debug\PeteyPepperoni.DTO.pdb
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\bin\Debug\PeteyPepperoni.Persistence.pdb
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\bin\Debug\PeteyPepperoni.Persistence.dll.config
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\bin\Debug\EntityFramework.xml
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\obj\Debug\PeteyPepperoni.Domain.csprojAssemblyReference.cache
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\obj\Debug\PeteyPepperoni.Domain.csproj.CoreCompileInputs.cache
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\obj\Debug\PeteyPepperoni.Domain.csproj.CopyComplete
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\obj\Debug\PeteyPepperoni.Domain.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Domain\obj\Debug\PeteyPepperoni.Domain.pdb

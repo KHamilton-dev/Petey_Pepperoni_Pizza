@@ -1,0 +1,6 @@
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Presentation\bin\Debug\PeteyPepperoni.Presentation.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Presentation\bin\Debug\PeteyPepperoni.Presentation.pdb
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Presentation\obj\Debug\PeteyPepperoni.Presentation.csprojAssemblyReference.cache
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Presentation\obj\Debug\PeteyPepperoni.Presentation.csproj.CoreCompileInputs.cache
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Presentation\obj\Debug\PeteyPepperoni.Presentation.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Presentation\obj\Debug\PeteyPepperoni.Presentation.pdb

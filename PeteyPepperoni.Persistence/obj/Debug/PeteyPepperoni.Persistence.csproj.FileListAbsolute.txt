@@ -1,0 +1,14 @@
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\bin\Debug\PeteyPepperoni.Persistence.dll.config
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\bin\Debug\PeteyPepperoni.Persistence.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\bin\Debug\PeteyPepperoni.Persistence.pdb
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\bin\Debug\EntityFramework.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\bin\Debug\PeteyPepperoni.DTO.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\bin\Debug\PeteyPepperoni.DTO.pdb
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\bin\Debug\EntityFramework.xml
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\obj\Debug\PeteyPepperoni.Persistence.csprojAssemblyReference.cache
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\obj\Debug\PeteyPepperoni.Persistence.csproj.CoreCompileInputs.cache
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\obj\Debug\PeteyPepperoni.Persistence.csproj.CopyComplete
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\obj\Debug\PeteyPepperoni.Persistence.dll
+C:\VS Projects\CS-70_PeteyPepperoniChallenge\PeteyPepperoni.Persistence\obj\Debug\PeteyPepperoni.Persistence.pdb
