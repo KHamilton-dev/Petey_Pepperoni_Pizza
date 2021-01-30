@@ -5,16 +5,16 @@
       <PropertyRef Name="orderID" />
     </Key>
     <Property Name="orderID" Type="uniqueidentifier" Nullable="false" />
-    <Property Name="Size" Type="varchar" MaxLength="50" />
-    <Property Name="Crust" Type="varchar" MaxLength="50" />
+    <Property Name="Size" Type="int" Nullable="false" />
+    <Property Name="Crust" Type="int" Nullable="false" />
     <Property Name="Sausage" Type="bit" />
     <Property Name="Mushrooms" Type="bit" />
     <Property Name="BlackOlives" Type="bit" />
     <Property Name="GreenOlives" Type="bit" />
-    <Property Name="Name" Type="varchar" MaxLength="50" />
-    <Property Name="Address" Type="varchar" MaxLength="50" />
-    <Property Name="ZipCode" Type="varchar" MaxLength="50" />
-    <Property Name="PaymentMethod" Type="varchar" MaxLength="50" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ZipCode" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PaymentMethod" Type="int" Nullable="false" />
   </EntityType>
   <EntityContainer Name="OrderStorageModelStoreContainer">
     <EntitySet Name="OrderInformation" EntityType="Self.OrderInformation" Schema="dbo" store:Type="Tables" />

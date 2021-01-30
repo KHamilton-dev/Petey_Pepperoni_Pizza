@@ -5,18 +5,21 @@
       <PropertyRef Name="orderID" />
     </Key>
     <Property Name="orderID" Type="Guid" Nullable="false" />
-    <Property Name="Size" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-    <Property Name="Crust" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Size" Type="OrderStorageModel.SizeType" Nullable="false" />
+    <Property Name="Crust" Type="OrderStorageModel.CrustType" Nullable="false" />
     <Property Name="Sausage" Type="Boolean" />
     <Property Name="Mushrooms" Type="Boolean" />
     <Property Name="BlackOlives" Type="Boolean" />
     <Property Name="GreenOlives" Type="Boolean" />
-    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-    <Property Name="ZipCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-    <Property Name="PaymentMethod" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ZipCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PaymentMethod" Type="OrderStorageModel.PaymentMethodType" Nullable="false" />
   </EntityType>
   <EntityContainer Name="OrderStorageEntities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="OrderInformations" EntityType="Self.OrderInformation" />
   </EntityContainer>
+  <EnumType Name="SizeType" a:ExternalTypeName="PeteyPepperoni.DTO.Enums.SizeType" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+  <EnumType Name="CrustType" a:ExternalTypeName="PeteyPepperoni.DTO.Enums.CrustType" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+  <EnumType Name="PaymentMethodType" a:ExternalTypeName="PeteyPepperoni.DTO.Enums.PaymentMethodType" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
 </Schema>

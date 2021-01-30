@@ -14,9 +14,9 @@ namespace PeteyPepperoni.Persistence
     
     public partial class OrderInformation
     {
-        public System.Guid orderID { get; set; } = Guid.NewGuid();
-        public string Size { get; set; }
-        public string Crust { get; set; }
+        public System.Guid orderID { get; set; }
+        public PeteyPepperoni.DTO.Enums.SizeType Size { get; set; }
+        public PeteyPepperoni.DTO.Enums.CrustType Crust { get; set; }
         public Nullable<bool> Sausage { get; set; }
         public Nullable<bool> Mushrooms { get; set; }
         public Nullable<bool> BlackOlives { get; set; }
@@ -24,6 +24,6 @@ namespace PeteyPepperoni.Persistence
         public string Name { get; set; }
         public string Address { get; set; }
         public string ZipCode { get; set; }
-        public string PaymentMethod { get; set; }
+        public PeteyPepperoni.DTO.Enums.PaymentMethodType PaymentMethod { get; set; }
     }
 }

@@ -11,12 +11,13 @@ namespace PeteyPepperoni.Persistence
     {
         public static void AddCustomer(DTO.OrderDetails newOrder)
         {
-            //adding order to db
+            //storing order in db
             OrderStorageEntities db = new OrderStorageEntities();
             var dbOrders = db.OrderInformations;
 
             var storingOrder = new OrderInformation();
 
+            storingOrder.orderID = Guid.NewGuid();
             storingOrder.Name = newOrder.Name;
             storingOrder.Address = newOrder.Address;
             storingOrder.ZipCode = newOrder.ZipCode;

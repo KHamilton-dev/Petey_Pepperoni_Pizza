@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enums\CrustType.cs" />
+    <Compile Include="Enums\PaymentMethodType.cs" />
+    <Compile Include="Enums\SizeType.cs" />
     <Compile Include="OrderDetails.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

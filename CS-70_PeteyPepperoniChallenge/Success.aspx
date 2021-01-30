@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>Success!</h1>
+            <h1>Success! Your order will arrive in about 45 minutes. Thank you!</h1>
         </div>
     </form>
 </body>
